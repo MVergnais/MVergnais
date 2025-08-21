@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👩‍💻 Murielle Vergnais  
+# 👩‍💻 Murielle 
 
 **Développeuse Web & Mobile | Designer Graphique & Motion Designer**  
 
@@ -55,15 +55,14 @@ Mettre à profit mes **compétences créatives et techniques** pour développer 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MurielleVergnais&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurielleVergnais&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  
 </p>  
 
 ---
 
 ## 📬 Me contacter  
-- 🔗 [LinkedIn](https://linkedin.com) *(à remplacer par ton vrai profil)*  
-- 🌐 [Portfolio](https://tonportfolio.com) *(si tu en as un)*  
-- ✉️ murielle.vergnais@email.com *(exemple à remplacer)*  
+- 🔗 [LinkedIn](www.linkedin.com/in/murielle-vergnais)
+- 🌐 [Portfolio](https://mvergnais.myportfolio.com)  
+- ✉️ m.vergnais@email.com
 
 ---
