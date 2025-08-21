@@ -1,10 +1,10 @@
-## Bonjour 👋, ravie de vous voir ici ! 
+## 👋 Bonjour, ravie de vous voir ici ! 
 
-**Développeuse Web & Mobile | Designer Graphique & Motion Designer**  
+**Développeuse Web & Mobile** | Designer Graphique & Motion Designer  
 
-🎯 Actuellement en formation **Développeuse Web & Mobile (M2I)** et **Mastère Direction Artistique Numérique (Studi)**.  
-📅 À la recherche d’un **stage du 26 novembre 2025 au 8 avril 2026**.  
-💡 Passionnée par le design, la création numérique et le développement, je combine une solide expérience en **graphisme et motion design** avec mes nouvelles compétences en **programmation web et mobile**.  
+🎯 Actuellement en formation **Développeuse Web & Mobile (M2I)**.  
+📅 À la recherche d’un **stage de Développeuse Web & Mobile du 26 novembre 2025 au 8 avril 2026**.  
+💡 Passionnée par le design, la création numérique et le développement, je combine une solide expérience en graphisme et motion design avec mes nouvelles compétences en **programmation web et mobile**.  
 
 ---
 
@@ -47,14 +47,6 @@
 
 ## 🎯 Objectif  
 Mettre à profit mes **compétences créatives et techniques** pour développer des projets web et mobiles innovants, tout en apportant une **dimension artistique et graphique** forte.  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  
-</p>  
 
 ---
 
