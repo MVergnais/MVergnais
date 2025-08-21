@@ -63,6 +63,6 @@ Mettre à profit mes **compétences créatives et techniques** pour développer 
 ## 📬 Me contacter  
 - 🔗 [LinkedIn](www.linkedin.com/in/murielle-vergnais)
 - 🌐 [Portfolio](https://mvergnais.myportfolio.com)  
-- ✉️ m.vergnais@email.com
+- ✉️ m.vergnais@gmail.com
 
 ---
