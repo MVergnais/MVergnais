@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👩‍💻 Murielle 
+## Bonjour 👋, ravie de vous voir ici ! 
 
 **Développeuse Web & Mobile | Designer Graphique & Motion Designer**  
 
@@ -42,7 +40,7 @@
 
 ---
 
-## 🌍 Langues  
+## 🌍 Langue  
 - 🇬🇧 Anglais : A2 (en cours de perfectionnement)  
 
 ---
@@ -61,8 +59,8 @@ Mettre à profit mes **compétences créatives et techniques** pour développer 
 ---
 
 ## 📬 Me contacter  
-- 🔗 [LinkedIn](www.linkedin.com/in/murielle-vergnais)
-- 🌐 [Portfolio](https://mvergnais.myportfolio.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/murielle-vergnais)
+- 🌐 [Portfolio créa](https://mvergnais.myportfolio.com)  
 - ✉️ m.vergnais@gmail.com
 
 ---
